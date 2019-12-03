@@ -1,3 +1,4 @@
 * text=auto
 * linguist-vendroid
 *.cs diff=csharp
+* .json
