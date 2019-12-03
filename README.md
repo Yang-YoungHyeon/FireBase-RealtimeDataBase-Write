@@ -3,6 +3,7 @@ Using System.Net.Json.dll
 
 # FireBase Realtime DataBase : Data Write
 <div>
+        
         private void FB_DB_Write(string name, string birth, string gender)
         {
             //Create a string of type JSON
