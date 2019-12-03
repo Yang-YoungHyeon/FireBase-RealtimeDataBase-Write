@@ -1,0 +1,14 @@
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\bin\Debug\FireBaseTest.exe.config
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\bin\Debug\FireBaseTest.exe
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\bin\Debug\FireBaseTest.pdb
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.csprojAssemblyReference.cache
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.Form1.resources
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.Properties.Resources.resources
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.csproj.GenerateResource.cache
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.csproj.CoreCompileInputs.cache
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.csproj.CopyComplete
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.exe
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\obj\Debug\FireBaseTest.pdb
+C:\Users\yyh03\source\repos\FireBaseTest\FireBaseTest\bin\Debug\System.Net.Json.dll
