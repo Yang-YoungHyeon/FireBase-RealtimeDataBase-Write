@@ -1,4 +1,4 @@
 * text=auto
 * linguist-vendroid
 * .cs diff=csharp
-* .epj
+* .epj diff=json
